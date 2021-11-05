@@ -1,2 +1,2 @@
 # Software-Engineering-Course-Tasks
-Software Engineering Course Section Tasks.
+This repository contains Web (HTML, CSS, JS, React) tasks.
